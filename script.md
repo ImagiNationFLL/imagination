@@ -1,6 +1,3 @@
-Human 1: where did my dog go?
-Human 2: hey! i just realized my dog is gone too!
-Human 3: speaking of missing pets my dog is gone aswell!
-Human 4: this is weird, mine is gone too!
-HUman 1: i just heard a bark, but i do not know where it came from.
-Human 2: thats OK, i have the app: the dogrun. it helps you find your dog. and it should tell you how far away it is and how long it takes to get there
+C.A. Does your dog constantly run away or get lost? Now there's an easy fast way to find them. Here at imagi-nation inc.we porduce a amazing dog collar just for people like you. In the app for the collar, we have GPS tracking that can find your dog wherever they go.
+P.1 That sounds really useful! Plus, if you have traind your dog to react to any any specific sounds, there is an option that lets you record them and 
+C.A. There also is a version of the app for search and rescue dogs.
